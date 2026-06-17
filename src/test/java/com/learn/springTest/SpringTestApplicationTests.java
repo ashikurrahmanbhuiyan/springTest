@@ -8,6 +8,7 @@ class SpringTestApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("no error");
 	}
 
 }
